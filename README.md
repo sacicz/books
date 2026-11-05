@@ -4,6 +4,8 @@
 
 An offline e-book reader for the Mudita Kompakt, designed for E Ink. Copy your books with Mudita Center and they appear in your library.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
+
 ## What it can do
 
 **Library**
