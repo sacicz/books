@@ -2,38 +2,28 @@
 
 # Books
 
-An offline e-book reader for the Mudita Kompakt, designed for E Ink. Copy your books with Mudita Center and they appear in your library.
+A simple offline e-reader for the Mudita Kompakt. Copy books from your computer with Mudita Center and they appear in the app on their own. No account, no store, no internet.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
 
-## What it can do
+## What it does
 
-**Library**
-- Reads EPUB, PDF and comics
-- Finds new books in the folder you choose
-- Search by title or author
-- Sort by last read, title or author
-- Mark books as read or unread
-- Remove books from the library and restore them; the file stays on the phone
+- Library of covers in alphabetical order, with the percentage read under each book.
+- EPUB, TXT, HTML, FB2, ODT, CBZ and PDF. PDF and comics are shown as pages.
+- Reads the book folder from Mudita Center (`Documents/MuditaCenter`). You choose it once; new books then appear when you open the app.
+- Every book opens where you stopped, even after a restart.
+- Bookmarks, contents, text size, font, line spacing and margins.
+- Local backup of progress and bookmarks, without the books.
+- Ten languages: Croatian, English, German, French, Spanish, Italian, Portuguese, Dutch, Polish and Czech.
 
-**Reading**
-- Chapters, contents and bookmarks
-- Text size, font, line spacing, margins and alignment
-- For PDF and comics: fit to width or whole page, and crop white margins
-- Book details and reading progress
-
-**Backup**
-- Export and import reading progress, bookmarks and the book list, without the books themselves
-
-**Languages:** English, Croatian, Spanish
-
-## Good to know
-- Books protected by DRM are not supported
-- Kindle files must be converted to EPUB on a computer
-- The app contains no books and isn't connected with any shop or publisher
+Kindle books (MOBI, AZW) and books with copy protection (DRM) are not supported.
 
 ## Privacy
-Fully offline: the app has no internet permission and asks for no phone permissions.
+
+Fully offline. The app has no INTERNET permission and no storage permissions: you give it read access to one folder through the system picker. Nothing leaves the phone.
 
 ## Install
+
 Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
+
+Made by ＠zsacic.
